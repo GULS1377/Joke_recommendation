@@ -12,20 +12,13 @@
 
 ### Project Structure
 
-> /Neighbor-Based Model: contains codes of neighbor-based model.
->
-> ​			/d2v.model: model of doc2vec
->
-> ​			/data.py: handle training data and test data
->
-> ​			/jesterfinal151cols.xls: dataset
->
-> ​			/joke_text.txt: joke text
->
-> ​			/main.py: main program
->
-> ​			/similarities.py: class of three types of similarities
->
-> ​			/test.xlsx: test dataset
-
-README.md: brief documentation of the whole project
+.
+├── Neighbor-Based Model: contains codes of neighbor-based model       
+│   ├── d2v.model: model of doc2vec
+│   ├── data.py: handle training data and test data
+│   ├── jesterfinal151cols.xls: dataset
+│   ├── joke_text.txt: joke text  
+│   ├── main.py: main program
+│   ├── similarities.py: class of three types of similarities
+│   ├── test.xlsx: test dataset
+├── README.md: brief documentation of the whole project   
