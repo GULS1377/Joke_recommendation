@@ -55,13 +55,21 @@
 |————test.xlsx: test dataset
 
 |——Matrix-Factorization Model: contains codes of matrix-factorization based model
+
 |————d2v.model: model of doc2vec
+
 |————raings.csv: dataset
+
 |————joke_text.txt: joke text
+
 |————data: processed data matrix
+
 |————X.npy: processed rating matrix
+
 |————masks.npy: processed mask matrix
+
 |————baseline.py: MF baseline
+
 |————d2v_sim.py: adding d2v info to the model
 
 |——README.md: brief documentation of the whole project
