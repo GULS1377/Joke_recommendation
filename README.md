@@ -38,8 +38,6 @@
 
 |————————joke_text.txt: 150 jokes
 
-.
-
 |——Neighbor-Based Model: contains codes of neighbor-based model 
 
 |————d2v.model: model of doc2vec
